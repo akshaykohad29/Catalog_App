@@ -1,0 +1,28 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "iPhone 12 Pro",
+            "desc": "Apple iPhone 12th generation",
+            "price": 999,
+            "color": "#33505a",
+            "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gsmarena.com%2Fapple_iphone_12_pro-pictures-10508.php&psig=AOvVaw3bWhOY3bkE_Ty2HGiRSkg0&ust=1674665989708000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOit1Y3X4PwCFQAAAAAdAAAAABAI"
+        },
+        {
+            "id": 2,
+            "name": "Pixel 5",
+            "desc": "Google Pixel phone 5th generation",
+            "price": 699,
+            "color": "#00ac51",
+            "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cashify.in%2Fgoogle-pixel-5-price-in-india&psig=AOvVaw23tJm22gCmUcmjtXYkLfnH&ust=1674672980842000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKCmh5Tx4PwCFQAAAAAdAAAAABAI"
+        },
+        {
+            "id": 3,
+            "name": "M1 Macbook Air",
+            "desc": "Apple Macbook air with apple silicon",
+            "price": 1099,
+            "color": "#e0bfae",
+            "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.apple.com%2Fin%2Fshop%2Fbuy-mac%2Fmacbook-air%2Fm1-chip&psig=AOvVaw2r7tGc05vv0iRqo7vs-iv5&ust=1674673019529000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOCAnKbx4PwCFQAAAAAdAAAAABAF"
+        }
+    ]
+}
